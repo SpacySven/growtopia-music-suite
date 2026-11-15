@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.vscode/
+.idea/
+# your own personal maps/songs - don't upload by accident
+my_*.json
