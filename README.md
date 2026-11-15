@@ -35,12 +35,24 @@ The program needs to know where the notes are on your screen. That's the note ma
 5. It will say `CLICK the position for note 'c1'`. Click that note in the game and it moves on to the next one (`d1`, `e1`, ...). The order is natural notes first, then flats (`b`), then sharps (`#`). Just follow what it tells you.
 6. Click **Save Map** and save it somewhere you'll remember.
 
+
+
+https://github.com/user-attachments/assets/44ed5f63-4ce5-470d-8bc0-4eff25992a4d
+
+
+
 ## Playing a song
 
 1. Click **Load Note Map** and pick your map.
 2. Click **Load Song** and pick a song `.json` (there's one in `examples/` to test with).
 3. Put the Growtopia window in the same corner spot you calibrated in.
 4. Press **START** or the hotkey `9`.
+
+
+
+https://github.com/user-attachments/assets/77098237-4ea4-4224-8d79-c1a0fd774e6e
+
+
 
 |Key|Action|
 |-|-|
