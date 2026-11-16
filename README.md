@@ -71,6 +71,8 @@ If the mouse starts doing something it shouldn't, move it into the top left corn
 
 * `SLOW\_FACTOR`: `1.0` is normal speed, `2.0` is half speed.
 * `MIN\_GAP`: the minimum time in seconds between notes. If it's too low, notes get skipped.
+<img width="1056" height="772" alt="image" src="https://github.com/user-attachments/assets/1e9e89fa-d5c3-44da-be56-982225c3a932" />
+
 
 ## Two players (dual instance)
 
