@@ -4,6 +4,8 @@ Plays songs in Growtopia by clicking the notes on your keytar for you. You load 
 
 Windows only.
 
+Be aware its made with claude, there will be bugs
+
 ## Installation
 
 1. Install Python from https://www.python.org/downloads/ and **tick "Add python.exe to PATH"** during install.
