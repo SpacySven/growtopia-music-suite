@@ -12,7 +12,7 @@ Be aware its made with claude, there will be bugs
 2. Download this project (green **Code** button, then **Download ZIP**) and extract it.
 3. Double-click `install.bat`.
 
-To start the program, double-click `run.bat`.
+To start the program, double-click `growtopia_music_suite.py`.
 
 <details>
 <summary>Manual install</summary>
